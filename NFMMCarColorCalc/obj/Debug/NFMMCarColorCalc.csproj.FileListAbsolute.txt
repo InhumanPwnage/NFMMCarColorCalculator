@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\bin\Debug\NFMMCarColorCalc.exe.config
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\bin\Debug\NFMMCarColorCalc.exe
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\bin\Debug\NFMMCarColorCalc.pdb
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.Form1.resources
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.Properties.Resources.resources
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.csproj.GenerateResource.Cache
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.exe
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.pdb
+C:\Users\julia\source\repos\NFMMCarColorCalc\NFMMCarColorCalc\obj\Debug\NFMMCarColorCalc.csprojAssemblyReference.cache
